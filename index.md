@@ -82,3 +82,11 @@
 
 ![avatar](images/图片28.png)
 ![avatar](images/图片29.png)
+
+## 3.编辑README
+编辑README形成内部文件基本描述和目录，便于查找。
+### ①进入编辑状态
+单击右上角编辑按钮
+
+![avatar](images/图片30.png)
+
