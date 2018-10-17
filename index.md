@@ -1,4 +1,4 @@
-<font color=gray size=20>Github操作手册</font>
+<font size=20>Github操作手册</font>
 
 # 一、登录
 ## 1.进入账户
