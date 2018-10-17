@@ -9,8 +9,11 @@
 vscode推荐安装插件如下，单击左边扩展按钮，按名称搜索，install即可，选择下载人数较多的目标，编写markdown文档时，单击右键preview实时查看效果。
 
 Chinese (Simplified) Language Pack 汉化包
+
 Markdown Preview Enhanced 预览
+
 Markdown TOC 目录生成器
+
 Code Spell Checker 拼写检查
 
 ![avatar](images/图片02.png)
