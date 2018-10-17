@@ -1,6 +1,14 @@
 **Github操作手册**
 
 # 一、安装
+## 文件列表
+依次按照默认安装即可
+
+![avatar](images/图片01.png)
+## 安装插件
+vscode需要插件如下，单击左边扩展按钮，按名称搜索，install即可，选择下载人数较多的目标，编写markdown文档时，单击右键preview实时查看效果。
+
+![avatar](images/图片02.png)
 
 # 二、登录
 ## 1.进入账户
