@@ -1,4 +1,4 @@
-<font size=7 color=gray face="黑体">操作手册</font>
+<font size=7> 操作手册 </font>
 
 # 一、登录
 ## 1.进入账户
@@ -31,6 +31,7 @@
 ![avatar](images/图片8.png)
 ![avatar](images/图片9.png)
 ![avatar](images/图片10.png)
+
 **批量提交**：在此文件夹根目录下空白处右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后所有红色感叹号变为绿色对号
 
 ![avatar](images/图片11.png)
