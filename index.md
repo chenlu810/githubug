@@ -77,4 +77,8 @@
 ![avatar](images/图片26.png)
 ![avatar](images/图片27.png)
 
+### ③删除文件
+单击要删除的文件→单击右上角删除按钮→页面下方编写修改说明→commit changes
 
+![avatar](images/图片28.png)
+![avatar](images/图片29.png)
