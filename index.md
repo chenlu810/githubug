@@ -1,6 +1,8 @@
 **Github操作手册**
 
-# 一、登录
+# 一、安装
+
+# 二、登录
 ## 1.进入账户
 [https://github.com/login](https://github.com/login) ，提交用户名密码。
 ## 2.进入团队
@@ -13,7 +15,7 @@
 ![avatar](images/图片2.png)
 ![avatar](images/图片3.png)
 
-# 二、编辑
+# 三、编辑
 分本地和线上两种方式
 ## 1.本地编辑
 ### ①clone到本地
@@ -112,4 +114,22 @@
 方法二：路径，文件夹的位置，文件夹/文件名
 
 ![avatar](images/图片32.png)
+
+# 四、markdown语法参考
+[英文版说明1](https://guides.github.com/features/mastering-markdown/)
+
+[英文版说明2](https://www.markdownguide.org/basic-syntax)
+
+[中文版说明1](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics)
+
+[中文版说明2](https://www.appinn.com/markdown/#img)
+
+# 五、进阶使用参考
+[Git中文版](https://git-scm.com/book/zh/v2)
+
+[文档代码化](https://doclikecode.readthedocs.io/zh_CN/latest/index.html)
+
+[Read the Docs](https://docs.readthedocs.io/en/latest/index.html#)
+
+[sphinx](http://www.sphinx-doc.org/en/master/index.html)
 
