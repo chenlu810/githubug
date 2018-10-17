@@ -72,4 +72,9 @@
 ![avatar](images/图片25.png)
 
 **添加文件夹**：
+单击create new file→输入文件夹名（英文）/文件名（文件夹不可为空）→编辑→页面下方编写修改说明→commit new file
+
+![avatar](images/图片26.png)
+![avatar](images/图片27.png)
+
 
