@@ -28,7 +28,7 @@ Code Spell Checker 拼写检查
 ## 1.进入账户
 [https://github.com/login](https://github.com/login) ，提交用户名密码。
 ## 2.进入团队
-单击右下角习悦标志。
+sign in之后单击右下角习悦标志。
 
 ![avatar](images/图片1.png)
 ## 3.进入库
@@ -41,8 +41,11 @@ Code Spell Checker 拼写检查
 分本地和线上两种方式
 ## 1.本地编辑
 ### ①clone到本地
+**方法一：githubdesktop**(MacOS、Windows皆可），打开登录→file→clone repository→选择对应名称→选择存放位置→clone
 
-单击clone or download→复制库的地址→进入本地电脑文件夹（不要选择桌面），右键菜单左键单击clone到本地→关闭  
+![avatar](images/图片m01.png)
+![avatar](images/图片m02.png)
+**方法二：tortoise**（仅windows）单击github网页库内clone or download→复制库的地址→进入本地电脑文件夹（不要选择桌面），右键菜单左键单击clone到本地→关闭  
 
 ![avatar](images/图片4.png)
 ![avatar](images/图片5.png)
@@ -50,21 +53,29 @@ Code Spell Checker 拼写检查
 ![avatar](images/图片7.png)
 ### ②修改文件
 保持文件名不变，打开直接修改即可，修改之后的文件将出现红色感叹号，可单个文件提交到github库，也可批量提交。
-**单个提交**：右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后红色感叹号变为绿色对号
+**方法一：githubdesktop**(MacOS、Windows皆可），界面自动出现变更提示，选定文件或批量文件→撰写修改信息→单击commit to master
+
+![avatar](images/图片m03.png)
+**方法二：tortoise**（仅windows）
+单个提交：右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后红色感叹号变为绿色对号
 
 ![avatar](images/图片8.png)
 ![avatar](images/图片9.png)
 ![avatar](images/图片10.png)
 
-**批量提交**：在此文件夹根目录下空白处右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后所有红色感叹号变为绿色对号
+批量提交：在此文件夹根目录下空白处右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后所有红色感叹号变为绿色对号
 
 ![avatar](images/图片11.png)
 ![avatar](images/图片12.png)
 ![avatar](images/图片13.png)
 
 ### ③添加文件
-在根目录下放入新增文件或文件夹（不可为空）→根目录下空白处右键单击Git Bash Here→依次输入命令（见下方）→刷新库即可见更新后的内容
-**命令**：复制粘贴（右键paste）单行后回车，新增原因按需修改。
+**方法一：githubdesktop**(MacOS、Windows皆可），界面会自动出现新增文件或文件夹提示（文件夹不可为空），选定文件或批量文件→撰写修改信息→单击commit to master
+
+![avatar](images/图片m04.png)
+![avatar](images/图片m05.png)
+**方法一：命令行**(MacOS、Windows皆可），在根目录下放入新增文件或文件夹（不可为空）→根目录下空白处右键单击Git Bash Here→依次输入命令（见下方）→刷新库即可见更新后的内容
+*命令*：复制粘贴（右键paste）单行后回车，新增原因按需修改。
 
 >git add .
 
