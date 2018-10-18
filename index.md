@@ -53,9 +53,11 @@ sign in之后单击右下角习悦标志。
 ![avatar](images/图片7.png)
 ### ②修改文件
 保持文件名不变，打开直接修改即可，修改之后的文件将出现红色感叹号，可单个文件提交到github库，也可批量提交。
-**方法一：githubdesktop**(MacOS、Windows皆可），界面自动出现变更提示，选定文件或批量文件→撰写修改信息→单击commit to master
+**方法一：githubdesktop**(MacOS、Windows皆可），界面自动出现变更提示，选定文件或批量文件→撰写修改信息→单击commit to master→push origin，成功后恢复到“fetch origin”
 
 ![avatar](images/图片m03.png)
+![avatar](images/图片m07.png)
+![avatar](images/图片m08.png)
 **方法二：tortoise**（仅windows）
 单个提交：右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后红色感叹号变为绿色对号
 
@@ -70,11 +72,13 @@ sign in之后单击右下角习悦标志。
 ![avatar](images/图片13.png)
 
 ### ③添加文件
-**方法一：githubdesktop**(MacOS、Windows皆可），界面会自动出现新增文件或文件夹提示（文件夹不可为空），选定文件或批量文件→撰写修改信息→单击commit to master
+**方法一：githubdesktop**(MacOS、Windows皆可），界面会自动出现新增文件或文件夹提示（文件夹不可为空），选定文件或批量文件→撰写修改信息→单击commit to master→push origin，成功后恢复到“fetch origin”
 
 ![avatar](images/图片m04.png)
 ![avatar](images/图片m05.png)
-**方法一：命令行**(MacOS、Windows皆可），在根目录下放入新增文件或文件夹（不可为空）→根目录下空白处右键单击Git Bash Here→依次输入命令（见下方）→刷新库即可见更新后的内容
+![avatar](images/图片m07.png)
+![avatar](images/图片m08.png)
+**方法二：命令行**(MacOS、Windows皆可），在根目录下放入新增文件或文件夹（不可为空）→根目录下空白处右键单击Git Bash Here→依次输入命令（见下方）→刷新库即可见更新后的内容
 *命令*：复制粘贴（右键paste）单行后回车，新增原因按需修改。
 
 >git add .
