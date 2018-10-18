@@ -3,6 +3,7 @@
 # 一、安装
 ## 文件列表
 依次按照默认安装即可
+
 Windows列表
 
 ![avatar](images/图片01.png)
@@ -45,7 +46,7 @@ sign in之后单击右下角习悦标志。
 
 ![avatar](images/图片m01.png)
 ![avatar](images/图片m02.png)
-**方法二：tortoise**（仅windows）单击github网页库内clone or download→复制库的地址→进入本地电脑文件夹（不要选择桌面），右键菜单左键单击clone到本地→关闭  
+**方法二：tortoise**（仅windows）单击github网页库内clone or download→复制库的地址→进入本地电脑文件夹（不要选择桌面），右键菜单左键单击clone到本地→确定→成功后关闭  
 
 ![avatar](images/图片4.png)
 ![avatar](images/图片5.png)
@@ -53,12 +54,14 @@ sign in之后单击右下角习悦标志。
 ![avatar](images/图片7.png)
 ### ②修改文件
 保持文件名不变，打开直接修改即可，修改之后的文件将出现红色感叹号，可单个文件提交到github库，也可批量提交。
+
 **方法一：githubdesktop**(MacOS、Windows皆可），界面自动出现变更提示，选定文件或批量文件→撰写修改信息→单击commit to master→push origin，成功后恢复到“fetch origin”
 
 ![avatar](images/图片m03.png)
 ![avatar](images/图片m07.png)
 ![avatar](images/图片m08.png)
 **方法二：tortoise**（仅windows）
+
 单个提交：右键单击文件名→Git提交（C）“master”→撰写“日志信息”→提交并推送→关闭，提交成功后红色感叹号变为绿色对号
 
 ![avatar](images/图片8.png)
@@ -102,6 +105,7 @@ sign in之后单击右下角习悦标志。
 
 ### ②添加文件
 **添加单个文件**：
+
 方法一：单击create new file→输入文件名称→编辑→页面下方编写修改说明→commit new file
 
 ![avatar](images/图片21.png)
@@ -126,7 +130,7 @@ sign in之后单击右下角习悦标志。
 ![avatar](images/图片29.png)
 
 ## 3.编辑README
-编辑README形成内部文件基本描述和目录，便于查找。
+编辑README形成内部文件基本描述和目录，便于管理。
 ### ①进入编辑状态
 单击右上角编辑按钮
 
