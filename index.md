@@ -3,8 +3,14 @@
 # 一、安装
 ## 文件列表
 依次按照默认安装即可
+Windows列表
 
 ![avatar](images/图片01.png)
+
+macOS列表
+
+![avatar](images/图片m06.png)
+
 ## 安装插件
 vscode推荐安装插件如下，单击左边扩展按钮，按名称搜索，install即可，选择下载人数较多的目标，编写markdown文档时，单击右键preview实时查看效果。
 
